@@ -1,0 +1,119 @@
+{
+    "foods": [
+        {
+            "foods": {
+                "name": null
+            },
+            "name": "pizza",
+            "restaurants": [
+                {
+                    "name": "Mario's Pizzeria",
+                    "rating": 4.5
+                },
+                {
+                    "name": "Luigi's Pizza Palace",
+                    "rating": 4.2
+                }
+            ]
+        },
+        {
+            "foods": {
+                "name": null
+            },
+            "name": "burger",
+            "restaurants": [
+                {
+                    "name": "Bob's Burgers",
+                    "rating": 4.7
+                },
+                {
+                    "name": "Burger house",
+                    "rating": 4.9
+                },
+                {
+                    "name": "Eddie's Burgers",
+                    "rating": 4.3
+                }
+            ]
+        },
+        {
+            "foods": {
+                "name": null
+            },
+            "name": "momo",
+            "restaurants": [
+                {
+                    "name": "Everest momos",
+                    "rating": 4.5
+                },
+                {
+                    "name": "Vip momo",
+                    "rating": 4.3
+                }
+            ]
+        },
+        {
+            "foods": {
+                "name": null
+            },
+            "name": "chowmein",
+            "restaurants": [
+                {
+                    "name": "Nine guys",
+                    "rating": 4.7
+                },
+                {
+                    "name": "kamalvinayak restra",
+                    "rating": 4.8
+                },
+                {
+                    "name": "Pure veg restrurant",
+                    "rating": 4.3
+                }
+            ]
+        },
+        {
+            "foods": {
+                "name": null
+            },
+            "name": "naan",
+            "restaurants": [
+                {
+                    "name": "pure veg restrurant",
+                    "rating": 4.7
+                },
+                {
+                    "name": "John n jack",
+                    "rating": 4.6
+                },
+                {
+                    "name": "Eddie's resta",
+                    "rating": 4.3
+                }
+            ]
+        },
+        {
+            "foods": {
+                "name": null
+            },
+            "name": "sushi",
+            "restaurants": [
+                {
+                    "name": "Sakura Sushi",
+                    "rating": 4.6
+                },
+                {
+                    "name": "Sushi Master",
+                    "rating": 4.4
+                }
+            ]
+        },
+        {
+            "name": "momo",
+            "restaurants": {
+                "name": "asd",
+                "rating": 4.400000095367432
+            }
+        }
+    ]
+}
